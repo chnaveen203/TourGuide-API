@@ -14,7 +14,7 @@ Database Configuration: If applicable, explain how to set up the database and co
 
 # Technologies Used:
 List the programming languages, frameworks, libraries, and tools used in the project.
-This section can include things like HTML, CSS, JavaScript, React, Node.js, Python, MySQL, etc.
+This section can include things like HTML, CSS, Python,etc.
 
 # Features:
 Provide a list of the website's features in detail.
